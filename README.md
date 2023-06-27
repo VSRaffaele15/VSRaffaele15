@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VSRaffaele15
 - 👀 I’m interested in all programming languages
-- 🌱 I’m currently learning C++, Lua
+- 🌱 I’m currently learning C++, C, Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me raffaele15_2023@virgilio.it
 - 💡 I’m currently working on Piloct in [Python Library Store](https://github.com/VSRaffaele15/Python-Library-Store/wiki/Available-Libs#piloct) Repository
